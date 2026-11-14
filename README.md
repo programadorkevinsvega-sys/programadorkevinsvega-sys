@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/[tu-usuario]">LinkedIn</a> ·
-  <a href="mailto:[tu-correo]">Correo</a> ·
+  <a href="mailto:programadorkevinsvegaægmail-com">Correo</a> ·
   <a href="https://rustflow.pages.dev">RustFlow</a> ·
   <a href="https://oxido-lengue.pages.dev">Óxido</a>
 </p>
@@ -53,7 +53,7 @@ Roadmap por fases y subfases, una rama y un PR por cambio, tests unitarios, de l
 
 ## 📬 Trabajemos juntos
 
-¿Necesitas integrar pagos, montar un ecommerce o un backend en Rust? Escríbeme por [LinkedIn](https://www.linkedin.com/in/[tu-usuario]) o a [tu-correo].
+¿Necesitas integrar pagos, montar un ecommerce o un backend en Rust? Escríbeme por [LinkedIn](https://www.linkedin.com/in/[tu-usuario]) o a programadorkevinsvega@gmail.com.
 
 ---
 
@@ -70,4 +70,4 @@ Backend engineer focused on **Rust** and **Cloudflare Workers**: payments, serve
 
 **Featured projects:** see the table above. Each repository states its maturity (production, in development, pre-1.0 prototype, or early stage) up front.
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/[tu-usuario]) · [tu-correo]
+**Contact:** [LinkedIn](https://www.linkedin.com/in/[tu-usuario]) · programadorkevinsvega@gail.com
